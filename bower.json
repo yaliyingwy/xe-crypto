@@ -1,0 +1,27 @@
+{
+  "name": "xe-crypto",
+  "main": "xe-crypto.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yaliyingwy/xe-crypto",
+  "authors": [
+    "ywen <yaliyingwy@gmail.com>"
+  ],
+  "description": "crypto module for xebest",
+  "keywords": [
+    "crypto",
+    "rsa",
+    "des"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "crypto-browserify": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "index.js",
+    "tests"
+  ]
+}

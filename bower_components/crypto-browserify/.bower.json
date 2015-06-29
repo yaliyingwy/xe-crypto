@@ -1,0 +1,14 @@
+{
+  "name": "crypto-browserify",
+  "homepage": "https://github.com/crypto-browserify/crypto-browserify",
+  "version": "3.9.14",
+  "_release": "3.9.14",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.9.14",
+    "commit": "712bc58b5d4f21154eaf4e78498f9041234cfd09"
+  },
+  "_source": "git://github.com/crypto-browserify/crypto-browserify.git",
+  "_target": "*",
+  "_originalSource": "crypto-browserify"
+}
